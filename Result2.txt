@@ -1,0 +1,13 @@
+Output of Program 2:
+--------------------------------------------------
+Enter a String with only Letters
+slav ivan 9!&#ovich9
+Input has non-Letter characters, try again!
+slav ivanovich
+String:slav ivanovich
+AACHIILNOSVVV
+
+END of INPUT
+
+Process finished with exit code 0
+
